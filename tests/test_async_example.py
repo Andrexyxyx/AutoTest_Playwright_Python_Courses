@@ -1,4 +1,4 @@
-# Пример теста в асинхронном режиме
+# Пример теста в асинхронном режиме (Python)
 
 from playwright.async_api import async_playwright
 import asyncio
