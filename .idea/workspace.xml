@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e97f616b-a0ee-47ef-8747-63a3000753d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/AutoTest_Playwright_Python_Courses.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_theory.py" afterDir="false" />
+    <list default="true" id="e97f616b-a0ee-47ef-8747-63a3000753d7" name="Changes" comment="Базовые файлы Playwright и команды для запуска через терминал">
       <change afterPath="$PROJECT_DIR$/tests/test_alerts.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tests/test_async_example.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tests/test_change_traffic.py" afterDir="false" />
@@ -66,7 +58,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Andrey/PycharmProjects/AutoTest_Playwright_Python_Courses",
-    "settings.editor.selected.configurable": "terminal"
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -179,6 +171,19 @@
       <option name="presentableId" value="Default" />
       <updated>1777048183820</updated>
     </task>
+    <task id="LOCAL-00001" summary="Базовые файлы Playwright и команды для запуска через терминал">
+      <option name="closed" value="true" />
+      <created>1777259706361</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1777259706361</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Базовые файлы Playwright и команды для запуска через терминал" />
+    <option name="LAST_COMMIT_MESSAGE" value="Базовые файлы Playwright и команды для запуска через терминал" />
   </component>
 </project>
