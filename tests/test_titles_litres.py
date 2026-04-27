@@ -1,3 +1,6 @@
+# Пример теста по проверке заголовка страницы
+
+
 from playwright.sync_api import Page, expect
 
 # Запуск теста - pytest tests/test_titles_litres.py::test_main_page_title --headed
