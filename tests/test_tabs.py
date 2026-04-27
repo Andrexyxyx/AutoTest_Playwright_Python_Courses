@@ -1,4 +1,4 @@
-# ПРОВЕРКА ПЕРЕХОДОВ И НАЖАТИЙ НА ДРУГИХ ВКЛАДКАХ
+# Пример теста с переходом и нажатием на других вкладках
 from time import sleep
 
 from playwright.sync_api import Page, BrowserContext
