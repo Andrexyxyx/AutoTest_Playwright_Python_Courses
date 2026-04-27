@@ -1,3 +1,6 @@
+# Пример тестов с поиском разного вида локаторов
+
+
 from playwright.sync_api import Page, expect
 
 # Запуск теста - pytest tests/test_locators_litres.py::test_locator_role --headed
