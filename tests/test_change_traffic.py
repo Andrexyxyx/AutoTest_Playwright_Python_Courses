@@ -1,4 +1,4 @@
-# ПОДМЕНА ТРАФФИКА
+# Пример тестов с подменой траффика (исходящего и входящего)
 from time import sleep
 
 from playwright.sync_api import Page, Route, expect
