@@ -1,4 +1,5 @@
-# НАЖАТИЕ НА КОНКРЕТНЫЙ ВАРИАНТ В ДРОПДАУНЕ (СЕЛЕКТ-БОКСЕ)
+# Пример теста с нажатием на конкретный вариант в дропдауне (селект-боксе)
+
 from time import sleep
 from playwright.sync_api import Page, expect, Dialog
 
