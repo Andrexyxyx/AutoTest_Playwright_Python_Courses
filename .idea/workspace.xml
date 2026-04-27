@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e97f616b-a0ee-47ef-8747-63a3000753d7" name="Changes" comment="Базовые файлы Playwright и команды для запуска через терминал">
-      <change afterPath="$PROJECT_DIR$/tests/test_alerts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_async_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_change_traffic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_dropdown.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_iframes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_locators_litres.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_sync_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_tabs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_titles_litres.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_theory.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_theory.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +172,23 @@
       <option name="project" value="LOCAL" />
       <updated>1777259706361</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Базовые файлы Playwright и команды для запуска через терминал">
+      <option name="closed" value="true" />
+      <created>1777260679001</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1777260679001</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Базовые файлы Playwright и команды для запуска через терминал">
+      <option name="closed" value="true" />
+      <created>1777260754309</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1777260754309</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

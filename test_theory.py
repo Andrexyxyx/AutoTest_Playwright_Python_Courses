@@ -1,5 +1,5 @@
-# Установка Playwright - pip install pytest-playwright
-# Установка браузеров - playwright install
+# Установка Playwright для Python - pip install pytest-playwright
+# Установка браузеров для Python - playwright install
 
 # Запуск всех тестов проекта - pytest
 # Запуск всех тестов файла - pytest test_file.py
