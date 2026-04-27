@@ -1,4 +1,4 @@
-# ПРОВЕРКА ВСПЛЫВАЮЩИХ АЛЕРТОВ
+# Пример тестов с проверкой всплывающих алертов
 from time import sleep
 
 from playwright.sync_api import Page, expect, Dialog
