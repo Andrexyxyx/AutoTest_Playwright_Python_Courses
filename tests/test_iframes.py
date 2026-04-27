@@ -1,4 +1,4 @@
-# ПРОВЕРКА И ПОИСК ЭЛЕМЕНТА В IFRAME
+# Пример теста с проверкой и поиском элемента в Iframe
 from time import sleep
 from playwright.sync_api import Page, expect, Dialog
 
