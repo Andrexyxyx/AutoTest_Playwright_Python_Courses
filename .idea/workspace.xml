@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e97f616b-a0ee-47ef-8747-63a3000753d7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/AutoTest_Playwright_Python_Courses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_theory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_alerts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_async_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_change_traffic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_dropdown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_iframes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_locators_litres.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_sync_example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_tabs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_titles_litres.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="3CoNuEE46eITtI9HV0GU7TEMPdy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python tests.Python tests for test_change_network.test_change_request.executor": "Run",
+    "Python tests.Python tests for test_first.test_wiki.executor": "Run",
+    "Python tests.Python tests for test_locators_litres.test_audiobooks_title.executor": "Run",
+    "Python tests.Python tests for test_locators_litres.test_count_elements.executor": "Run",
+    "Python tests.Python tests for test_locators_litres.test_locator_datatestid.executor": "Run",
+    "Python tests.Python tests for test_locators_litres.test_locator_placeholder.executor": "Run",
+    "Python tests.Python tests for test_locators_litres.test_locator_role.executor": "Run",
+    "Python tests.Python tests for test_locators_litres.test_locator_xpath.executor": "Run",
+    "Python tests.Python tests for test_titles.test_audiobooks_title.executor": "Run",
+    "Python tests.Python tests in test_async_example.py.executor": "Run",
+    "Python tests.Python tests in test_sync_example.py.executor": "Run",
+    "Python tests.Python tests in test_titles.py.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Andrey/PycharmProjects/AutoTest_Playwright_Python_Courses",
+    "settings.editor.selected.configurable": "terminal"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Andrey\PycharmProjects\AutoTest_Playwright_Python_Courses" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Andrey\PycharmProjects\AutoTest_Playwright_Python_Courses\tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test_locators_litres.test_count_elements">
+    <configuration name="Python tests for test_locators_litres.test_count_elements" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="AutoTest_Playwright_Python_Courses" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_locators_litres.test_count_elements&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_locators_litres.test_locator_datatestid" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="AutoTest_Playwright_Python_Courses" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_locators_litres.test_locator_datatestid&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_locators_litres.test_locator_placeholder" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="AutoTest_Playwright_Python_Courses" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_locators_litres.test_locator_placeholder&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_locators_litres.test_locator_xpath" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="AutoTest_Playwright_Python_Courses" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_locators_litres.test_locator_xpath&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for tests.test_change_traffic.test_change_request" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="AutoTest_Playwright_Python_Courses" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.test_change_traffic.test_change_request&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_locators_litres.test_count_elements" />
+        <item itemvalue="Python tests.Python tests for test_locators_litres.test_locator_placeholder" />
+        <item itemvalue="Python tests.Python tests for tests.test_change_traffic.test_change_request" />
+        <item itemvalue="Python tests.Python tests for test_locators_litres.test_locator_xpath" />
+        <item itemvalue="Python tests.Python tests for test_locators_litres.test_locator_datatestid" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e97f616b-a0ee-47ef-8747-63a3000753d7" name="Changes" comment="" />
+      <created>1777048183820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777048183820</updated>
+    </task>
+    <servers />
+  </component>
+</project>
