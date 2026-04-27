@@ -1,4 +1,4 @@
-# Пример теста в синхронном режиме
+# Пример теста в синхронном режиме (Python)
 
 from playwright.sync_api import sync_playwright
 
